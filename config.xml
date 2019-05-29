@@ -29,7 +29,7 @@ María Fernanda López Pineda
 
 <!--Plugin audio-->
 
-<plugin name="cordova-plugin-media" spec="https://github.com/apache/cordova-plugin-media-git"/>
+<plugin name="cordova-plugin-media" spec="https://github.com/apache/cordova-plugin-media.git"/>
 
 <!--Colocar Icono app-->
 
